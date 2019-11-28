@@ -1,0 +1,45 @@
+
+body {
+  font-family: Arial,sans-serif;
+  color: #37454d;
+  line-height: 1.5;
+}
+.latest-post {
+    margin: 30px;
+    padding: 10px;
+    background-color: #F6F6F6;
+    box-shadow: 0 1px 7px 0 grey;
+}
+.author {
+  margin-top: 92px;
+  background-color: #F6F6F6;
+  box-shadow: 0 1px 3px 0 grey;
+  padding: 5px
+}
+
+.post-details {
+  margin-top: 80px;
+}
+
+.heading {
+  font-size: 44px;
+  line-height: 1.25;
+  font-family: Arial,sans-serif;
+  text-rendering: optimizeLegibility;
+  font-weight: 700;
+}
+.excerpt {
+  line-height: 32px;
+  font-size: 24px;
+  color: #9ba2a6;
+  line-height: 28px;
+  letter-spacing: 0;
+  white-space: pre-line;
+  margin-top: 30px;
+}
+.intro-text {
+  font-size: 20px;
+}
+.dv-star-rating {
+  font-size: 30px;
+}

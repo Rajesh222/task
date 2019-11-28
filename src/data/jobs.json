@@ -1,0 +1,304 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "title": "Frontend Developer",
+        "description": "Comfortable with modern JS stack, experience with React.",
+        "employment_type": "full_time",
+        "job_location": "Berlin",
+        "skills_required": {
+          "0": "react",
+          "1": "javascript",
+          "2": "node js"
+        },
+        "company": "Hey Jobs",
+        "industry": "eCommerce, Fashion",
+        "Role": "Frontend Developer"
+      },
+      {
+        "id": 2,
+        "title": "Frontend Developer",
+        "description": "Comfortable with modern JS stack, experience with React.",
+        "employment_type": "full_time",
+        "job_location": "Berlin",
+        "skills_required": {
+          "0": "react",
+          "1": "javascript",
+          "2": "node js"
+        },
+        "company": "Hey Jobs",
+        "industry": "eCommerce, Fashion",
+        "Role": "Frontend Developer"
+      },
+      {
+        "id": 3,
+        "title": "Frontend Developer",
+        "description": "Comfortable with modern JS stack, experience with React.",
+        "employment_type": "full_time",
+        "job_location": "Berlin",
+        "skills_required": {
+          "0": "react",
+          "1": "javascript",
+          "2": "node js"
+        },
+        "company": "Hey Jobs",
+        "industry": "eCommerce, Fashion",
+        "Role": "Frontend Developer"
+      },
+      {
+        "id": 4,
+        "title": "Frontend Developer",
+        "description": "Comfortable with modern JS stack, experience with React.",
+        "employment_type": "full_time",
+        "job_location": "Berlin",
+        "skills_required": {
+          "0": "react",
+          "1": "javascript",
+          "2": "node js"
+        },
+        "company": "Hey Jobs",
+        "industry": "eCommerce, Fashion",
+        "Role": "Frontend Developer"
+      },
+      {
+        "id": 5,
+        "title": "Frontend Developer",
+        "description": "Comfortable with modern JS stack, experience with React.",
+        "employment_type": "full_time",
+        "job_location": "Berlin",
+        "skills_required": {
+          "0": "react",
+          "1": "javascript",
+          "2": "node js"
+        },
+        "company": "Hey Jobs",
+        "industry": "eCommerce, Fashion",
+        "Role": "Frontend Developer"
+      },
+      {
+        "id": 6,
+        "title": "Frontend Developer",
+        "description": "Comfortable with modern JS stack, experience with React.",
+        "employment_type": "full_time",
+        "job_location": "Berlin",
+        "skills_required": {
+          "0": "react",
+          "1": "javascript",
+          "2": "node js"
+        },
+        "company": "Hey Jobs",
+        "industry": "eCommerce, Fashion",
+        "Role": "Frontend Developer"
+      },
+      {
+        "id": 7,
+        "title": "Frontend Developer",
+        "description": "Comfortable with modern JS stack, experience with React.",
+        "employment_type": "full_time",
+        "job_location": "Berlin",
+        "skills_required": {
+          "0": "react",
+          "1": "javascript",
+          "2": "node js"
+        },
+        "company": "Hey Jobs",
+        "industry": "eCommerce, Fashion",
+        "Role": "Frontend Developer"
+      },
+      {
+        "id": 8,
+        "title": "Frontend Developer",
+        "description": "Comfortable with modern JS stack, experience with React.",
+        "employment_type": "full_time",
+        "job_location": "Berlin",
+        "skills_required": {
+          "0": "react",
+          "1": "javascript",
+          "2": "node js"
+        },
+        "company": "Hey Jobs",
+        "industry": "eCommerce, Fashion",
+        "Role": "Frontend Developer"
+      },
+      {
+        "id": 9,
+        "title": "Frontend Developer",
+        "description": "Comfortable with modern JS stack, experience with React.",
+        "employment_type": "full_time",
+        "job_location": "Berlin",
+        "skills_required": {
+          "0": "react",
+          "1": "javascript",
+          "2": "node js"
+        },
+        "company": "Hey Jobs",
+        "industry": "eCommerce, Fashion",
+        "Role": "Frontend Developer"
+      },
+      {
+        "id": 10,
+        "title": "Frontend Developer",
+        "description": "Comfortable with modern JS stack, experience with React.",
+        "employment_type": "full_time",
+        "job_location": "Berlin",
+        "skills_required": {
+          "0": "react",
+          "1": "javascript",
+          "2": "node js"
+        },
+        "company": "Hey Jobs",
+        "industry": "eCommerce, Fashion",
+        "Role": "Frontend Developer"
+      },
+      {
+        "id": 11,
+        "title": "Frontend Developer",
+        "description": "Comfortable with modern JS stack, experience with React.",
+        "employment_type": "full_time",
+        "job_location": "Berlin",
+        "skills_required": {
+          "0": "react",
+          "1": "javascript",
+          "2": "node js"
+        },
+        "company": "Hey Jobs",
+        "industry": "eCommerce, Fashion",
+        "Role": "Frontend Developer"
+      },
+      {
+        "id": 12,
+        "title": "Frontend Developer",
+        "description": "Comfortable with modern JS stack, experience with React.",
+        "employment_type": "full_time",
+        "job_location": "Berlin",
+        "skills_required": {
+          "0": "react",
+          "1": "javascript",
+          "2": "node js"
+        },
+        "company": "Hey Jobs",
+        "industry": "eCommerce, Fashion",
+        "Role": "Frontend Developer"
+      },
+      {
+        "id": 13,
+        "title": "Frontend Developer",
+        "description": "Comfortable with modern JS stack, experience with React.",
+        "employment_type": "full_time",
+        "job_location": "Berlin",
+        "skills_required": {
+          "0": "react",
+          "1": "javascript",
+          "2": "node js"
+        },
+        "company": "Hey Jobs",
+        "industry": "eCommerce, Fashion",
+        "Role": "Frontend Developer"
+      },
+      {
+        "id": 14,
+        "title": "Frontend Developer",
+        "description": "Comfortable with modern JS stack, experience with React.",
+        "employment_type": "full_time",
+        "job_location": "Berlin",
+        "skills_required": {
+          "0": "react",
+          "1": "javascript",
+          "2": "node js"
+        },
+        "company": "Hey Jobs",
+        "industry": "eCommerce, Fashion",
+        "Role": "Frontend Developer"
+      },
+      {
+        "id": 15,
+        "title": "Frontend Developer",
+        "description": "Comfortable with modern JS stack, experience with React.",
+        "employment_type": "full_time",
+        "job_location": "Berlin",
+        "skills_required": {
+          "0": "react",
+          "1": "javascript",
+          "2": "node js"
+        },
+        "company": "Hey Jobs",
+        "industry": "eCommerce, Fashion",
+        "Role": "Frontend Developer"
+      },
+      {
+        "id": 16,
+        "title": "Frontend Developer",
+        "description": "Comfortable with modern JS stack, experience with React.",
+        "employment_type": "full_time",
+        "job_location": "Berlin",
+        "skills_required": {
+          "0": "react",
+          "1": "javascript",
+          "2": "node js"
+        },
+        "company": "Hey Jobs",
+        "industry": "eCommerce, Fashion",
+        "Role": "Frontend Developer"
+      },
+      {
+        "id": 17,
+        "title": "Frontend Developer",
+        "description": "Comfortable with modern JS stack, experience with React.",
+        "employment_type": "full_time",
+        "job_location": "Berlin",
+        "skills_required": {
+          "0": "react",
+          "1": "javascript",
+          "2": "node js"
+        },
+        "company": "Hey Jobs",
+        "industry": "eCommerce, Fashion",
+        "Role": "Frontend Developer"
+      },
+      {
+        "id": 18,
+        "title": "Frontend Developer",
+        "description": "Comfortable with modern JS stack, experience with React.",
+        "employment_type": "full_time",
+        "job_location": "Berlin",
+        "skills_required": {
+          "0": "react",
+          "1": "javascript",
+          "2": "node js"
+        },
+        "company": "Hey Jobs",
+        "industry": "eCommerce, Fashion",
+        "Role": "Frontend Developer"
+      },
+      {
+        "id": 19,
+        "title": "Frontend Developer",
+        "description": "Comfortable with modern JS stack, experience with React.",
+        "employment_type": "full_time",
+        "job_location": "Berlin",
+        "skills_required": {
+          "0": "react",
+          "1": "javascript",
+          "2": "node js"
+        },
+        "company": "Hey Jobs",
+        "industry": "eCommerce, Fashion",
+        "Role": "Frontend Developer"
+      },
+      {
+        "id": 20,
+        "title": "Frontend Developer",
+        "description": "Comfortable with modern JS stack, experience with React.",
+        "employment_type": "full_time",
+        "job_location": "Berlin",
+        "skills_required": {
+          "0": "react",
+          "1": "javascript",
+          "2": "node js"
+        },
+        "company": "Hey Jobs",
+        "industry": "eCommerce, Fashion",
+        "Role": "Frontend Developer"
+      }
+    ]
+  }
